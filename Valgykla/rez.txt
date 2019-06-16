@@ -1,0 +1,35 @@
+Naujas klientu sarasas: 
+Kliento vardas: Saulius
+Saskaitos dydis: 50 eu 
+Staliuko numeris: 7
+
+Kliento vardas: Tomas
+Saskaitos dydis: 60 eu 
+Staliuko numeris: 5
+
+Kliento vardas: Monika
+Saskaitos dydis: 50 eu 
+Staliuko numeris: 6
+
+Naujas klientu sarasas: 
+Kliento vardas: Saulius
+Saskaitos dydis: 50 eu 
+Staliuko numeris: 7
+
+Kliento vardas: Tomas
+Saskaitos dydis: 60 eu 
+Staliuko numeris: 5
+
+Kliento vardas: Monika
+Saskaitos dydis: 50 eu 
+Staliuko numeris: 6
+
+Naujas klientu sarasas: 
+Kliento vardas: Saulius
+Saskaitos dydis: 50 eu 
+Staliuko numeris: 7
+
+Kliento vardas: Tomas
+Saskaitos dydis: 60 eu 
+Staliuko numeris: 5
+
